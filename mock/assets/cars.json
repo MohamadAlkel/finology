@@ -1,0 +1,76 @@
+[
+  {
+    "id": 1,
+    "carType": "Electrical",
+    "models": "Tesla",
+    "price": "200k",
+    "chargingTime": "170/30min",
+    "fuelType": "electric",
+    "condition": "new",
+    "color": "white"
+  },
+  {
+    "id": 2,
+    "carType": "2 Wheels",
+    "models": "BMW",
+    "price": "100k",
+    "fuelType": "petrol",
+    "condition": "used",
+    "color": "gray"
+  },
+  {
+    "id": 3,
+    "carType": "Sport",
+    "models": "Ferrari",
+    "price": "300k",
+    "fuelType": "petrol",
+    "condition": "used",
+    "color": "red"
+  },
+  {
+    "id": 4,
+    "carType": "2 Wheels",
+    "models": "Mercedes",
+    "price": "50k",
+    "fuelType": "petrol",
+    "condition": "used",
+    "color": "black"
+  },
+  {
+    "id": 5,
+    "carType": "Electrical",
+    "models": "Tesla",
+    "price": "200k",
+    "chargingTime": "170/30min",
+    "fuelType": "electric",
+    "condition": "new",
+    "color": "white"
+  },
+  {
+    "id": 6,
+    "carType": "2 Wheels",
+    "models": "BMW",
+    "price": "100k",
+    "fuelType": "petrol",
+    "condition": "used",
+    "color": "gray"
+  },
+  {
+    "id": 7,
+    "carType": "Sport",
+    "models": "Ferrari",
+    "price": "300k",
+    "fuelType": "petrol",
+    "condition": "used",
+    "color": "red"
+  },
+  {
+    "id": 8,
+    "carType": "2 Wheels",
+    "models": "Mercedes",
+    "price": "50k",
+    "fuelType": "petrol",
+    "condition": "used",
+    "color": "black"
+  }
+]
