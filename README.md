@@ -1,5 +1,9 @@
 # finology Car page
 
+- website that gets car type and returns a car from it.
+- Car type can be electrical, 2 wheels or sport
+- Each car type conten from different parts(chargingTime, fuelType, condition, color, price, models)
+
 ---
 
 ### Setup
@@ -98,16 +102,19 @@ Actions:
 ### UI overview
 
 Phone:
+<img width="390" alt="image" src="https://github.com/MohamadAlkel/finology/assets/47742500/b61917c4-642a-453e-a5e2-2bda6efc7e1f">
+
 
 Desktop:
+<img width="1680" alt="image" src="https://github.com/MohamadAlkel/finology/assets/47742500/babd3ff9-077a-4bb6-b684-c6b1e3099213">
+
 
 friendly message when we have not api issue, or. no data:
-<img width="1680" alt="image" src="https://user-images.githubusercontent.com/88084506/234294481-425be453-fad2-4d61-a958-94cb918120d8.png">
+<img width="475" alt="image" src="https://github.com/MohamadAlkel/finology/assets/47742500/91626ff3-4b80-4e27-a84a-598a6f114bef">
 
 ---
 
 what will do if I have more time:
-
 - adding more unit test cases
 - add more types for those components which they don't have...
 - add E2E test
